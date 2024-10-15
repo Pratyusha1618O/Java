@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _06odd_even {
+public class _06_if_Else {
     public static void main(String[] args) {
         Scanner sc =  new Scanner(System.in);
         System.out.print("Enter the number: ");
