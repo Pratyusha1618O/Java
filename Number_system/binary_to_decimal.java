@@ -18,5 +18,9 @@ public class binary_to_decimal {
         }
 
         System.out.println("Decimal : "+ ans);
+
+        sc.close();
     }
+
+    
 }
