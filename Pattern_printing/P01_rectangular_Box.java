@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class P01_starBox {
+public class P01_rectangular_Box {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the term: ");
@@ -15,5 +15,6 @@ public class P01_starBox {
             System.out.println();
         }
 
+        sc.close();
     }
 }
