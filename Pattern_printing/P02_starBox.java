@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class P01_rectangular_Box {
+public class P02_starBox {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the term: ");
@@ -10,7 +10,12 @@ public class P01_rectangular_Box {
         {
             for(int j=1; j<=n ;j++)
             {
-                System.out.print("*");
+                if(i==1 || j==1 || i==n || j==n){
+                    System.out.print("*");
+                }
+                else{
+                    System.out.print(" ");
+                }
             }
             System.out.println();
         }
