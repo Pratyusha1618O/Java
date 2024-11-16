@@ -30,7 +30,6 @@ public class java07_armstrong {
         else{
             System.out.println("The number is Not Armstrong Number");
         }
-
         sc.close();
     }
 }
