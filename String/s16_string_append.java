@@ -1,4 +1,4 @@
-public class s37_string_append {
+public class s16_string_append {
     public static void main(String[] args) {
         String s1;
         s1 = new String("Object Oriented Programming");
