@@ -13,6 +13,7 @@ class Sample{
     }
 }
 
+
 public class s66_finalize {
    public static void main(String[] args) {
     Sample s = new Sample();

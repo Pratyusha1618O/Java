@@ -9,7 +9,6 @@ class Student{
         name = n;
         mark = m;
     }
-
     void display()
     {
         System.out.println(roll + name + mark);

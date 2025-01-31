@@ -10,6 +10,7 @@ class B extends A{
         System.out.println("Everyone");
     }
 }
+
 public class s68_overriding {
     public static void main(String[] args) {
         B b = new B();

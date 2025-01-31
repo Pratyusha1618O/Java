@@ -13,7 +13,6 @@ class Student{
 
 }
 
-
 public class s64_constructor {
     public static void main(String[] args) {
         // Student s = new Student();
